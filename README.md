@@ -21,17 +21,25 @@ Neste repositório, você encontrará materiais de estudo, exercícios, projetos
 
 ## 🚀 Como Usar
 
-1. Clone o repositório:
+1. 🛠️ Instale o Obsidian
+
+| Sistema Operacional | Passos |  
+|----------------------|--------|  
+| **Windows** 🖥️       | Acesse o [site oficial](https://obsidian.md/), baixe e instale o programa. |  
+| **macOS** 🍎         | Baixe o `.dmg` no [site oficial](https://obsidian.md/) e arraste para **Aplicativos**. |  
+| **Linux** 🐧         | Faça download do arquivo AppImage, torne-o executável e execute-o. |  
+
+2. Clone o repositório:
    ```bash
    git clone https://github.com/Emersonpinho/inteligenciaArtificialEssencialComObsididiam.git
    ```
 
-2. Navegue até o diretório do repositório:
+3. Navegue até o diretório do repositório:
    ```bash
    cd inteligenciaArtificialEssencialComObsididiam
    ```
 
-3. Abra os arquivos do Obsidian para visualizar as anotações e utilize os Jupyter Notebooks para executar os códigos.
+4. Abra os arquivos do Obsidian para visualizar as anotações e utilize os Jupyter Notebooks para executar os códigos.
 
 ## 📝 Contribuições
 
